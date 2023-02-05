@@ -18,5 +18,7 @@ Analyzed different plots using statistical tools. <br />
 SQL <br />
 Python <br />
 Pandas & Numpy <br />
+Matplotlib & seaborn <br />
+Plotly <br />
 Power BI <br />
 Statistics <br />
