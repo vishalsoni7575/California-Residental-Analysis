@@ -6,11 +6,11 @@
 
 # California House Analysis
 This repository represent " California House Analysis ". <br />
-With the help of this project, we can Analyze with 10 differnt questions inclusing plots .
+With the help of this project, we can Analyze with 10 differnt questions including plots .
 
 # Description
 This implementation is based on official **California House Analysis** repository. <br />
-Analyzed different plots using statistical tools. <br />.
+Analyzed different plots using statistical tools. <br />
 
 
 
